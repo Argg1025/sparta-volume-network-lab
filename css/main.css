@@ -1,0 +1,166 @@
+body {
+    background-color: #eaedf0;
+}
+
+.navbar a {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 0 5px;
+}
+
+.navbar a .not-active {
+    color: white !important;
+}
+
+.navbar a .not-active2 {
+    color: #7db6df !important;
+    background-color: white;
+}
+
+.navbar a:active {
+    color: black;
+}
+
+.navbar {
+    background-color: #7db6df;
+}
+
+.col-12 {
+    background-color: #eaedf0;
+}
+
+.jumbotron {
+    margin-left: -205px;
+    margin-right: -205px;
+}
+
+.main-content .container {
+    /* transform: translateY(-300px); */
+    margin-top: -300px;
+    background: white;
+    position absolute;
+    opacity: 0.9;
+}
+
+.higher-position .col-md-8 {
+    background: white;
+    margin-top: -230px;
+}
+
+.col-md-8 .opacity-header {
+    opacity: 0.9;
+    padding: 40px 0 80px;
+}
+
+.higher-position .col-md-4 {
+    background-color: #eaedf0;
+    padding-left: 50px;
+}
+
+.img-1 {
+    margin: 0 10px;
+}
+
+.rounded-circle {
+    height: 200px;
+    margin: 50px 65px 50px;
+    padding: -10px;
+}
+
+.carousel-control-next-icon:after,
+.carousel-control-prev-icon:after {
+    color: black;
+}
+
+.carousel {
+    background: rgb(218, 213, 213);
+    width: 1400px;
+    margin: 40px 0 20px 60px;
+    padding: 60px 0;
+}
+
+.dixons,
+.huawei,
+.rocket,
+.giorgio,
+.mass {
+    width: 200px;
+}
+
+.services .col-md-4 {
+    background-color: #eaedf0;
+    transform: translate(-100px, 40px);
+}
+
+.col-lg-3 {
+    margin: 10px 0 0;
+}
+
+i {
+    background-color: #263039;
+    color: #eaedf0;
+    height: 150px;
+    width: 150px;
+}
+
+.form-container {
+    transform: translate(0, 100px);
+    margin-bottom: 100px;
+    background-color: #263039;
+    margin: -5px -210px 0;
+}
+
+cont-color {
+    background-color: #263039;
+}
+
+.form-container h3,
+.p-color {
+    color: white;
+    background-color: #263039;
+    margin: -1px -20px;
+}
+
+form {
+    background-color: #263039;
+    margin: 0 -30px;
+    padding-top: 20px;
+
+}
+
+.footer-container {
+    margin-bottom: 100px;
+    transform: translate(0, 100px);
+    background-color: white;
+    padding: 50px 0;
+    margin: 0 -210px;
+}
+
+.icon-container {
+    transform: translate(-40px, 100px);
+
+}
+
+.icon-container i {
+    background-color: #7db6df;
+}
+
+.icon-container .left-i {
+    padding-top: 20px;
+    padding-left: 700px;
+    width: 1000px;
+    color: lightblue;
+    transform: translateX(-158px);
+}
+
+.icon-container .right-i {
+    padding-top: 20px;
+    padding-left: 50px;
+    width: 790px;
+    color: darkblue;
+}
+
+.support-container,
+.vol-container {
+    transform: translate(0, 110px);
+}
